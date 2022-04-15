@@ -4,7 +4,7 @@
 |--------|------|
 |Mojave 10.14.6| OpenCore 0.7.8|
 ## Screenshots
-![Screenshot](Screenshots/1.png)
+![Screenshot](Screenshots/1.jpg)
 
 ## Laptop specs
 |                     | Specifications| 
