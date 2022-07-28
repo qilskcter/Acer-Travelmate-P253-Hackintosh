@@ -2,16 +2,16 @@
 ## Versions
 |macOS|Bootloader|
 |--------|------|
-|Mojave 10.14.6| OpenCore 0.7.8|
+|Big Sur 11.6.4| OpenCore 0.8.2|
 ## Screenshots
 ![Screenshot](Screenshots/1.jpg)
 
 ## Laptop specs
 |                     | Specifications| 
 | ---------------------------- | ---------------------- |
-| ``Chipset``| Intel Ivy Bridge|
+| ``Chipset``| Intel 7 Series/C210 Series Chipset.|
 | ``CPU``| Intel Core i3-3110M 2.40GHz|
-| ``Memory``| 4GB DDR3-1333MHz, up to 8GB|
+| ``Memory``| 4GB DDR3-1333MHz|
 | ``GPU``| Intel HD Graphics 4000|
 | ``Storage``| ADATA SU650 120GB|
 | ``Screen``| 15.6" 1366 x 768|
@@ -23,4 +23,21 @@
 | ``Dimensions``| 25.4mm x 381.6mm x 253mm|
 |``Weight``|2.6kg| 
 
-## Features (Update Later)
+## Features
+
+|                               | OpenCore             |
+| ----------------------------- | -------------------- |
+| ``Wifi and Bluetooth``|✅|
+| ``Audio``|✅|
+| ``Keyboard and Trackpad``|✅|
+| ``Headphone Jack``|✅|
+| ``Graphics``|✅|
+| ``Battery``|✅|
+| ``Power Management``|✅|
+| ``Multigesture Trackpad``|✅|                                                                         
+| ``Webcam``|✅|
+| ``USB Port``|✅|
+| ``Facetime and iMessage``|✅|
+| ``Sleep``|✅|
+| ``Ethernet``|❌|
+| ``Hotkeys``|❌|
