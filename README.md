@@ -19,7 +19,7 @@
 | ``WiFi and Bluetooth``| Qualcomm Atheros AR9485|
 | ``Audio``| ALC269 |
 | ``Keyboard``| - |
-| ``Touchpad``| Synaptics, PS/2|
+| ``Touchpad``| ELAN, PS/2|
 | ``Dimensions``| 25.4mm x 381.6mm x 253mm|
 |``Weight``|2.6kg| 
 
