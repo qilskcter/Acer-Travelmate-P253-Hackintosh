@@ -15,7 +15,7 @@
 | ``GPU``| Intel HD Graphics 4000|
 | ``Storage``| ADATA SU650 120GB|
 | ``Screen``| 15.6" 1366 x 768|
-| ``Ethernet``| null |
+| ``Ethernet``| Broadcom NetLink BCM57785 |
 | ``WiFi and Bluetooth``| Qualcomm Atheros AR9485|
 | ``Audio``| ALC269 |
 | ``Keyboard``| - |
