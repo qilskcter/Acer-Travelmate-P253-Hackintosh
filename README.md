@@ -16,7 +16,7 @@
 | ``Storage``| ADATA SU650 120GB|
 | ``Screen``| 15.6" 1366 x 768|
 | ``Ethernet``| Broadcom NetLink BCM57785 |
-| ``WiFi and Bluetooth``| Qualcomm Atheros AR9485|
+| ``WiFi``| Qualcomm Atheros AR9485 (no Bluetooth)|
 | ``Audio``| ALC269 |
 | ``Keyboard``| - |
 | ``Touchpad``| ELAN, PS/2|
@@ -27,7 +27,7 @@
 
 |                               | OpenCore             |
 | ----------------------------- | -------------------- |
-| ``Wifi and Bluetooth``|✅|
+| ``Wifi``|✅|
 | ``Audio``|✅|
 | ``Keyboard and Trackpad``|✅|
 | ``Headphone Jack``|✅|
